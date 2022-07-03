@@ -1,0 +1,8 @@
+{
+  "name": "Rune-addons",
+  "creator": "rune_lol",
+  "description": "Some skyblock addons to help myself.",
+  "entry": "index.js",
+  "version": "0.1.1",
+  "requires": ["PogData"]
+}
